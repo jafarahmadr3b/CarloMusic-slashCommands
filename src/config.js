@@ -4,8 +4,14 @@ module.exports = {
     ownerID: "910940655520464956",
     SpotifyID: "",
     SpotifySecret: "",
-    mongourl: "",
-    embedColor: "",
+    mongourl: "mongodb+srv://remixbot:
+
+remixbot0709@cluster0.millen.mongodb.net
+
+/myFirstDatabase?retryWrites-true&w=
+
+majority",
+    embedColor: "RANDOM",
     logs: "923897070186799107",
 
   nodes: {
