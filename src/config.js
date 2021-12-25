@@ -1,12 +1,12 @@
 module.exports = {
-    token: "",
-    prefix: "",
-    ownerID: "",
+    token: "OTIzNzM1MzM5ODY3MjA1NjMy.YcUVkw.BTChnPCEe7oBLihCDrkzyz82QNM",
+    prefix: "L",
+    ownerID: "910940655520464956",
     SpotifyID: "",
     SpotifySecret: "",
     mongourl: "",
     embedColor: "",
-    logs: "",
+    logs: "923897070186799107",
 
   nodes: {
      
